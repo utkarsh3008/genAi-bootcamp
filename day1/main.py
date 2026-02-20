@@ -40,3 +40,13 @@ print(type(f_tuple)) #tuple
 print(type(g_set)) #set
 print(type(h_dict)) #dict
 
+
+# Console output and handle user data
+
+num1 = input("Please enter first number: ")
+num2 = input("Please enter Second number: ")
+print("Sum of num1 and num2 is ", int(num1)+int(num2))
+
+
+
+
